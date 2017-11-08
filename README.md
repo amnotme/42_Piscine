@@ -6,7 +6,7 @@ This repository will be divided into attempted days and weekend projects at 42.
 
 1) Day00 - Rigor and Unix
 2) Day01 - Rigor and Unix
-3) Day02 - First day of C
+3) Day02 - First day of C  
 -ex00 = ft_print_alphabet.c
 -ex01 = ft_print_reverse_alphabet.c
 -ex02 = ft_print_numbers.c
