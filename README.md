@@ -53,5 +53,12 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex15 = ft_str_is_printable.c  
   *ex16 = ft_strcat.c  
   *ex17 = ft_strncat.c  
+7) Day06 - Fifth day of C - Passing Arguments From the Command Line  
+  *ex00 = ft_putchar.c | ft_putstr.c | ft_strcmp.c | ft_strlen.c | ft_swap.c | libft_creator.sh  
+  *ex01 = ft_print_program_name.c  
+  *ex02 = ft_print_params.c  
+  *ex03 = ft_rev_params.c  
+  *ex04 = ft_sort_params.c  
   
+
 
