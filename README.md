@@ -64,7 +64,7 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex01 = ft_range.c  
   *ex02 = ft_ultimate_range.c  
   *ex03 = ft_concat_params.c  
- =
+
   
 
 
