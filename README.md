@@ -75,6 +75,11 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex04 = ft_count_if.c  
   *ex05 = ft_is_sort.c  
   *ex06 = Makefile | ft_do_op.c | ft_atoi.c | ft_puchar.c | ft_putnbr.c | ft_strlen.c | main.c  
+12) Day11 - 10th day of C - Linked lists  
+  *ex00 = ft_create_elem.c | ft_list.h | main.c  
+  *ex01 = ft_list_push_back.c | ft_create_elem.c | ft_list.h | main.c  
+  *ex02 = ft_list_push_front.c | ft_create_elem.c | ft_list.h | main.c  
+  *ex03 = ft_list_size.c | ft_list_push_front.c | ft_create_elem.c | ft_list.h | main.c  
+  *ex04 = ft_list_last.c | ft_list_push_back.c | ft_create_elem.c | ft_list.h | main.c  
+  *ex05 = ft_push_params.c | ft_create_elem.c | ft_list.h  
   
-
-
