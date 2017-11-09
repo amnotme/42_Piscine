@@ -89,4 +89,12 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex01 = btree_apply_prefix.c | btree_create_node.c | ft_btree.h | main.c | Makefile  
   *ex02 = btree_apply_infix.c | btree_apply_prefix.c | btree_create_node.c | ft_btree.h | main.c | Makefile  
   *ex03 = btree_apply_suffix.c | btree_apply_infix.c | btree_apply_prefix.c | btree_create_node.c | ft_btree.h | main.c | Makefile  
+  -----------------------------------------------------------------------
+  
+1) Rush00 - Displaying customized grids with different sizes  
+  *ex00 = ft_putchar.c | rush00.c | rush01.c | rush02.c | rush03.c | rush04.c | main.c  
+2) Rush01 - Create a Sudoku solver that takes in valid inputs to solve for unknowns and displays them on a grid  
+  *ex00 = ft_lib.h | ft_sudoku.h | ft_putstr.c | ft_solve.c | ft_print_board.c | ft_read_args.c | ft_strlen.c | ft_putchar.c | ft_seventeen.c | ft_success.c | main.c  
+  
+
   
