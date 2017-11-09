@@ -14,4 +14,14 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex04 = ft_print_comb.c  
   *ex05 = ft_print_comb2.c  
   *ex06 = ft_putnbr.c  
-  
+4) Day03 - Second day of C  
+  *ex00 = ft_ft.c  
+  *ex01 = ft_ultimate_ft.c  
+  *ex02 = ft_swap.c  
+  *ex03 = ft_div_mod.c  
+  *ex04 = ft_ultimate_div_mod.c  
+  *ex05 = ft_putstr.c  
+  *ex06 = ft_strlen.c  
+  *ex07 = ft_strrev.c  
+  *ex08 = ft_atoi.c  
+  *ex09 = sort_int_tab.c  
