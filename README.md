@@ -65,6 +65,16 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex02 = ft_ultimate_range.c  
   *ex03 = ft_concat_params.c  
 9) Day08 - Seventh day of C - Learning Macros *Pdf is the only thing in this directory  
-10) Day09 - Eighth day of C - 24 hour challenge. *Pdf is the only thing in this directory
+10) Day09 - Eighth day of C - 24 hour challenge. *Pdf is the only thing in this directory  
+11) Day10 - Ninth day of C - Using makefiles  
+  *src = ft_putchar.c | ft_putnbr.c | ft_putstr.c | ft_strcmp.c | ft_strlen.c | ft_swap.c  
+  *ex00 = Makefile  
+  *ex01 = ft_foreach.c  
+  *ex02 = ft_map.c  
+  *ex03 = ft_any.c  
+  *ex04 = ft_count_if.c  
+  *ex05 = ft_is_sort.c  
+  *ex06 = Makefile | ft_do_op.c | ft_atoi.c | ft_puchar.c | ft_putnbr.c | ft_strlen.c | main.c  
+  
 
 
