@@ -84,3 +84,9 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex05 = ft_push_params.c | ft_create_elem.c | ft_list.h  
 13) Day12 - 11th day of C - More makefiles and Macros  
   *ex00 = Makefile | ft_putchar.c | ft_putstr.c | main.c  
+14) Day13 - 12th day of C - Binary Trees  
+  *ex00 = btree_create_node.c | ft_btree.h | main.c | Makefile  
+  *ex01 = btree_apply_prefix.c | btree_create_node.c | ft_btree.h | main.c | Makefile  
+  *ex02 = btree_apply_infix.c | btree_apply_prefix.c | btree_create_node.c | ft_btree.h | main.c | Makefile  
+  *ex03 = btree_apply_suffix.c | btree_apply_infix.c | btree_apply_prefix.c | btree_create_node.c | ft_btree.h | main.c | Makefile  
+  
