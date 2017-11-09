@@ -82,4 +82,5 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex03 = ft_list_size.c | ft_list_push_front.c | ft_create_elem.c | ft_list.h | main.c  
   *ex04 = ft_list_last.c | ft_list_push_back.c | ft_create_elem.c | ft_list.h | main.c  
   *ex05 = ft_push_params.c | ft_create_elem.c | ft_list.h  
-  
+13) Day12 - 11th day of C - More makefiles and Macros  
+  *ex00 = Makefile | ft_putchar.c | ft_putstr.c | main.c  
