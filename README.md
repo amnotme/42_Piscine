@@ -59,6 +59,12 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex02 = ft_print_params.c  
   *ex03 = ft_rev_params.c  
   *ex04 = ft_sort_params.c  
+8) Day07 - Sixth day of C - Using pointer functions  
+  *ex00 = ft_strdup.c  
+  *ex01 = ft_range.c  
+  *ex02 = ft_ultimate_range.c  
+  *ex03 = ft_concat_params.c  
+ =
   
 
 
