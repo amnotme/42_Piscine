@@ -64,7 +64,7 @@ This repository will be divided into attempted days and weekend projects at 42.
   *ex01 = ft_range.c  
   *ex02 = ft_ultimate_range.c  
   *ex03 = ft_concat_params.c  
-
-  
+9) Day08 - Seventh day of C - Learning Macros *Pdf is the only thing in this directory  
+10) Day09 - Eighth day of C - 24 hour challenge. *Pdf is the only thing in this directory
 
 
