@@ -101,7 +101,8 @@ This repository will be divided into attempted days and weekend projects at 42.
   *Includes = ft_h.h  
   *Functions = input.c | lane_inspector.c | output.c | rush2.c | verifi.c  
   *References = ft_atoi.c | ft_putnbr. c | ft_putstr.c | rush00.c | rush01.c | rush02.c | rush03.c | rush04.c  
-  
+4) BSQ - Program that finds the biggest square in a given map and displays the biggest square found  
+
   
 
   
